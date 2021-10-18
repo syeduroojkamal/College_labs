@@ -1,8 +1,8 @@
 def encrypt(plain_text, key):    
     return ''.join(chr(ord(letter) + key) for letter in plain_text) 
 
-def decrypt(plain_text, key):    
-    return ''.join(chr(ord(letter) - key) for letter in plain_text) 
+def decrypt(encrypted, key):    
+    return ''.join(chr(ord(letter) - key) for letter in encrypted) 
 
 def main():
     # Input

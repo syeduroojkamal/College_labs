@@ -1,2 +1,2 @@
 # Collegelabs
-:D
+(⌐■_■)

@@ -1,0 +1,5 @@
+principal = float(input('Enter amount: '))
+time = float(input('Enter time: '))
+rate = float(input('Enter rate: '))
+print('Simple interest is: %f' % ((principal*time*rate)/100))
+print('Compound interest is: %f' %(principal * ( (1+rate/100)**time - 1)))

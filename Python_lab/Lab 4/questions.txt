@@ -1,0 +1,19 @@
+1. Write a program to find common elements in 3 lists using sets.
+
+2. Write a program to count number of vowels using sets in given string.
+
+3. Write a program to implement all set operations.
+
+4. Write a program to check if a set is a subset of another set.
+
+5. Write a program to find maximum and the minimum value in a set.
+
+6. Write a Program to Find Duplicate sets in list of sets.
+
+7. Write a Program to get all possible differences between set elements.
+
+8. Write a Program to Convert List of lists to list of Sets
+
+9. Write a program to convert Set into Tuple and Tuple into Set.
+
+10. Write a program to get all subsets of given size of a set.

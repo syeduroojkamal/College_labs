@@ -1,0 +1,32 @@
+1. Write a program to generate and print a dictionary that contains a number (between 1 and n) in the form (x, x*x).
+Sample Input (n = 5) :
+Expected Output: {1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
+
+2. Write a program to iterate over dictionaries using for loops.
+
+3. Write a program to combine two dictionary adding values for common keys. Go to the editor
+d1 = {'a': 100, 'b': 200, 'c':300}
+d2 = {'a': 300, 'b': 200, 'd':400}
+Sample Output: Counter({'a': 400, 'b': 400, 'd': 400, 'c': 300})
+
+4. Write a Python program to create and display all combinations of letters, selecting each letter from a different key in a dictionary.
+Sample Input: {'1':['a','b'], '2':['c','d']}
+Expected Output:
+ac
+ad
+bc
+bd
+
+5. Write a program to create a sub-dictionary containing all keys from dictionary list.
+
+6. Write a Program to split Dictionary values on size limit of values.
+
+7. Write a Program for Cross mapping of Two dictionary value lists.
+
+    Sample Input : test_dict1 = {“Gfg” : [4, 10], “Best” : [8, 6], “is” : [9, 3]}, test_dict2 = {6 : [15, 9], 8 : [6, 3], 7 : [9, 8], 9 : [10, 11]}
+    Sample Output : {‘Best’: [6, 3, 15, 9], ‘is’: [10, 11]}
+    Explanation : “Best” has 8 and 6, which are mapped to 6, 3 and 15, 9 hence output for that key.
+
+    Sample Input : test_dict1 = {“Gfg” : [4, 10], “Best” : [18, 16], “is” : [9, 3]}, test_dict2 = {6 : [15, 9], 8 : [6, 3], 7 : [9, 8], 9 : [10, 11]}
+    Sample Output : {‘is’: [10, 11]}
+    Explanation : Only 9 present as possible key.

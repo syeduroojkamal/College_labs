@@ -1,0 +1,10 @@
+1. Write a python function to store and access employee information by using arbitrary keyword arguments.
+2. Write a Python function to display Fibonacci series using recursion.
+3. Write a Python function that accepts a string and calculate the number of upper case letters and lower case letters.
+4. Write a Python function that takes a list and returns a new list with unique elements of the first list.
+5. Write a Python function to check whether a number is perfect or not.
+6. Write a Python function that prints out the first n rows of Pascal's triangle.
+7. Write a Python function to check whether a string is a pangram or not.
+8. Write a Python program that accepts a hyphen-separated sequence of words as input and prints the words in a hyphen-separated sequence after sorting them alphabetically.
+9. Write a Python program to detect the number of local variables declared in a function.
+10. Create a function showEmployee() in such a way that it should accept employee name, and its salary and display both. If the salary is missing in the function call assign default value 9000 to salary.

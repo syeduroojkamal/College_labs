@@ -1,0 +1,39 @@
+1. WAP to print Hello World
+
+2. WAP to calculate Simple and Compound Interest
+
+3. WAP to calculate distance between two points by taking input from the user
+
+4. WAP to check if given no is even or odd
+
+5. WAP to check given no is positive, negative or zero
+
+6. WAP to find out largest and smallest of three numbers
+
+7. WAP to swap any two numbers
+
+8. WAP to enter 2 numbers as Command Line Argument and Print it’s sum
+
+9. WAP to check a year is leap or not
+
+10. WAP to check type of variable(int, float, complex, bool or str)
+
+11. WAP to print ASCII Value of character
+
+12. WAP to check the given no is prime or not
+
+13. WAP to check whether a given no is armstrong or not
+
+14. WAP to check whether a given no is palindrome or not
+
+15. WAP to sum of digits of a number
+
+16. WAP to print fibonacci series upto number n
+
+17. WAP to find factorial of Number N
+
+18. WAP to print cubes sum of first n natural number
+
+19. WAP to find sum of even and odd numbers upto N
+
+20. WAP to make a calculator of all arithmetic operators

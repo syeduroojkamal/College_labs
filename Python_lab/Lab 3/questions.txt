@@ -1,0 +1,20 @@
+1. Write a program to create a list of tuples from given list having numbers as cube in each tuple.
+Sample Input(List): [1,2,3]
+Sample Output(List of tuples): [(1,1), (2,8), (3,27)]
+
+2. Write a program to sort a list of tuples by second element.
+Sample Input(List of Tuples): [(‘P’,82), (‘D’,68), (‘V’,99), (‘B’,25)]
+Sample Output(List of Tuples): [(‘B’,25), (‘D’,68), (‘P’,82), (‘V’,99)]
+
+3. Write a program to sort a list of tuples by a specific order.
+Sample Input1(List of Tuples): [(‘P’,89,’A’), (‘Z’,15,’C’), (‘A’,25,’R’), (‘T’,95,’E’)]
+Sample Input2(List containing the order): [25, 95, 89, 15]
+Sample Output: [(‘A’,25,’R’), (‘T’,95,’E’), (‘P’,89,’A’), (‘Z’,15,’C’)]
+
+4. Write a program to find matching items on same index in 2 tuples.
+Sample Input(Tuple): (11, 22, 32, 55, 77, 44, 40, 55), (32, 55, 55, 77, 11, 44, 40, 55)
+Sample Output(List): [44, 40, 55]
+
+5. Write a program to find the tuples containing given element from list of tuples.
+Sample Input(List of Tuples): [(11,22), (32,55), (55,77), (11,44), (40,55)]
+Sample Output(List of Tuples): [(11,22), (11,44), (32,55), (40,55)]

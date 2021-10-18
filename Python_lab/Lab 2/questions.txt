@@ -1,0 +1,11 @@
+1. Write a program to interchange first and last element of the list.
+
+2. Write a program to swap any 2 elements of the list.
+
+3. Write a program to remove the duplicate values from a list.
+
+4. Write a program to remove nth occurrence of a given value from a list.
+
+5. Write a program to find nth smallest/ nth largest element in the list.
+
+6. Write a program to find the sum of even numbers and sum of odd numbers and put this sum into a separate list.

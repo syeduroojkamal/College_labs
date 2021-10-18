@@ -1,0 +1,7 @@
+1. Write a function in python to read the content from a text file "myfile.txt" line by line and display the same on screen.
+2. Write a function in python to count the number of lines from a text file "myfile.txt" which is not starting with an alphabet "A".
+3. Write a function in Python to read words from a text file "myfile1.txt". Write each word into another file “myfile2.txt”.
+4. Write a function display_words() in python to read lines from a text file "myfile.txt", and display those words, which are less than 4 characters.
+5. Write a function in Python to count words in a text file those are ending with alphabet "a".
+6. Write a program to count frequency of characters in a given file. Can you use character frequency to tell whether the given file is a Python program file, C program file or a text file?
+7. Write a program to print each line of a file in reverse order. Write a program to compute the number of characters, words and lines in a file.

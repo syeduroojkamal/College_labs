@@ -90,7 +90,7 @@ def decryptMessage(cipher, key):
 def main():
     # Input
     msg = input("Enter a Message : ")
-    key = input("Enter Secret : ")
+    key = input("Enter Secret Key : ")
     
     # Encryption
     encrypted = encryptMessage(msg, key)

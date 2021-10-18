@@ -54,7 +54,7 @@ def decrypt(s,n):
 def main():
     # Input
     plain_text = input("Enter a Message : ")
-    key = int(input("Enter Secret : "))
+    key = int(input("Enter Secret Key : "))
     
     # Encryption
     encrypted = encrypt(plain_text, key)

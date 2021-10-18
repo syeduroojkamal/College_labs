@@ -66,3 +66,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# References 
+# http://github.com/CrypTools/RailfenceCipher

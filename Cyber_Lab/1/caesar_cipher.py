@@ -19,3 +19,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# References 
+# https://stackoverflow.com/questions/35820678/python-increment-characters-in-a-string-by-1

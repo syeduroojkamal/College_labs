@@ -22,3 +22,6 @@ if __name__ == "__main__":
 
 # References 
 # https://stackoverflow.com/questions/35820678/python-increment-characters-in-a-string-by-1
+
+# Bug
+# If an encrypted character go beyond z it doesn't cycle back to a.
